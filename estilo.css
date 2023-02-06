@@ -1,0 +1,141 @@
+		body
+{ background:url('imagens/fundo.png');
+  font-size: 5px;}
+
+
+	a:hover {color: yellow;}
+  	
+
+  	.titulo {
+  			font-size: 28px;
+  			font-family: monospace;
+  			margin: 10px;
+  	   		padding: 5px;
+  	   		text-align: center;
+  	   }	
+.titulo1
+{	font-size: 22px; background: red;
+text-align: center;}
+
+	#fundo { 
+			background: #2E2E2E;
+			border: 2px solid black;
+			width: 1200px;
+			margin: 10px auto;
+			border: 5px dashed  blue;
+		}
+
+		.clear {clear}	
+
+	.texto {
+
+			font-size: 20px;
+  			font-family: monospace;
+  			margin: 10px;
+  	   		padding: 5px;
+  	   }	
+		
+
+
+.texto1	{	font-size: 20px;
+  			font-family: monospace, sans-serif;
+  			background: #D7DC38;
+  			margin: 10px;
+  	   	padding: px;
+  	   		
+  	   }
+
+
+
+			a { 
+
+			border: 2px dashed blue;
+			background: red;
+			font-size: 18px;
+			color: white;
+			font-family: sans-serif;
+			margin: 10px;
+			padding: 5px;
+			text-decoration: none;
+
+			}
+
+
+
+.imagem {
+
+width: 200px;
+float: top;
+padding: 40px;
+margin: 4px;
+}
+
+
+
+
+	.noticia { font: 20px;
+	background: e5e5e5;
+	padding: 5px;
+	width: 280px;
+	margin: 5PX;
+	float: left;
+			}
+	 
+
+	 img { padding:20px }
+
+
+	.azul {color: #01DFA5;}
+
+
+
+	.conteudo {
+background: #01DFA5;
+border: 1px solid gray;
+width: 270px;
+height: 350px;
+margin: 60px;
+float: right;}
+
+
+	.noticias1 {
+
+			color: #2E2E2E;
+			font-size: 30px;
+						}
+
+		.noticias2 {  
+
+			color: #000000;
+			font-size: 20px;
+			
+
+		 }
+
+
+
+			.link1{ 
+
+			border: 2px dashed blue;
+			background: red;
+			font-size: 18px;
+			text-align: center;
+			color: white;
+			font-family: sans-serif;
+			margin: 10px;
+			padding: 5px;
+			text-decoration: none;
+			}
+
+			.fixo {
+			
+				
+				position: fixed;
+				bottom: 0px;
+				font-size: 45px;
+
+
+			}
+  
+
+
